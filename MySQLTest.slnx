@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MySQLTest/MySQLTest.vcxproj" Id="f5f17dd3-30ad-487c-926a-94b11d2396a6" />
+</Solution>
