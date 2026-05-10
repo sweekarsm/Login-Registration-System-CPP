@@ -3,3 +3,4 @@ x64/
 Debug/
 *.db-wal
 *.db-shm
+*.db
